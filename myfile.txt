@@ -1,1 +1,6 @@
-This is some text
+This is some text... I want to add new text to test merge conflict.
+
+Test
+
+test
+
